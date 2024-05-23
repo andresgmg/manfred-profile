@@ -1,0 +1,769 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Andres",
+      "surnames": "Marquez",
+      "title": "Python, TypeScript | Node, Serverless, Flask, FastApi, Django",
+      "description": "FACELAD SPA 🧑🏻‍💻\nSoftware Developer 🌐\nCrypto holder 📊\nMusician in my free times 🥁🎺\n🇻🇪 - 🇨🇱",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/23/62a7c274-ee81-4c25-b429-ae9d89c97634_linkedin-photo-37092.linkedin-photo-37092",
+        "alt": "24/05/23/62a7c274-ee81-4c25-b429-ae9d89c97634_linkedin-photo-37092.linkedin-photo-37092"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJL68lBEHFYpYRMQkPQDzVdYQ)",
+        "country": "Chile",
+        "region": "Región Metropolitana",
+        "municipality": "Santiago"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/andresgmg"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/andresgmg"
+      },
+      {
+        "type": "other",
+        "URL": "https://linktr.ee/Developerandresmarquez",
+        "description": "Linktree"
+      },
+      {
+        "type": "other",
+        "URL": "https://andresgmg.github.io/"
+      },
+      {
+        "type": "other",
+        "URL": "https://facelad.com"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Next4",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/23/17db3338-9ca5-4163-8a6f-030f288a2e17_linkedin-photo-37092.linkedin-photo-37092",
+            "alt": "24/05/23/17db3338-9ca5-4163-8a6f-030f288a2e17_linkedin-photo-37092.linkedin-photo-37092"
+          }
+        },
+        "roles": [
+          {
+            "name": "Líder en Gestión de Sistemas y Soporte TI",
+            "startDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "Encargado de Equipo de TI y Líder en gestión de los sistemas utilizados en la empresa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FACELAD SpA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/23/32b00f99-b1e6-4273-b77d-219464c4a816_linkedin-photo-37092.linkedin-photo-37092",
+            "alt": "24/05/23/32b00f99-b1e6-4273-b77d-219464c4a816_linkedin-photo-37092.linkedin-photo-37092"
+          }
+        },
+        "roles": [
+          {
+            "name": "Director de proyectos de TI",
+            "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "Co-fundador de una empresa dedicada a la tecnología"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Haintech Solutions",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/23/f410389e-a422-4452-ab7e-0097bb52c875_linkedin-photo-37092.linkedin-photo-37092",
+            "alt": "24/05/23/f410389e-a422-4452-ab7e-0097bb52c875_linkedin-photo-37092.linkedin-photo-37092"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2022-04-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "backend developer in python"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Smart PickUp",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/23/a17b6847-608c-4add-911f-8f6fc500c57e_linkedin-photo-37092.linkedin-photo-37092",
+            "alt": "24/05/23/a17b6847-608c-4add-911f-8f6fc500c57e_linkedin-photo-37092.linkedin-photo-37092"
+          }
+        },
+        "roles": [
+          {
+            "name": "Encargado de operaciones y logistica",
+            "startDate": "2021-09-01",
+            "finishDate": "2022-04-30",
+            "challenges": [
+              {
+                "description": "Skills: Microsoft Office · Python · Hojas de cálculo de Google · Amazon Web Services (AWS) · JavaScript · Flask · Microsoft Excel · PostgreSQL · Git"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Smart PickUp",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/23/5761ac1b-7ac2-48b4-a96d-25cbe21ef1f1_linkedin-photo-37092.linkedin-photo-37092",
+            "alt": "24/05/23/5761ac1b-7ac2-48b4-a96d-25cbe21ef1f1_linkedin-photo-37092.linkedin-photo-37092"
+          }
+        },
+        "roles": [
+          {
+            "name": "Operador informático",
+            "startDate": "2021-05-01",
+            "finishDate": "2021-09-30",
+            "challenges": [
+              {
+                "description": "control de bases de datos y chequeo de paquetes con problemas en la plataforma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PalletParking. Servicios de almacenaje a demanda",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/23/1dbdeb55-8651-49ec-99c9-361e8581bbb6_linkedin-photo-37092.linkedin-photo-37092",
+            "alt": "24/05/23/1dbdeb55-8651-49ec-99c9-361e8581bbb6_linkedin-photo-37092.linkedin-photo-37092"
+          }
+        },
+        "roles": [
+          {
+            "name": "Operador informático",
+            "startDate": "2021-01-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "operario de bodega, recepcion de paquetes mediante escaneo de codigos QR y manejo de base de datos para chequeo de recepcion."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Arawato Media",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/23/2ab5f939-a827-4bfc-9b8d-5983d986478b_linkedin-photo-37092.linkedin-photo-37092",
+            "alt": "24/05/23/2ab5f939-a827-4bfc-9b8d-5983d986478b_linkedin-photo-37092.linkedin-photo-37092"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web",
+            "startDate": "2020-07-01",
+            "finishDate": "2021-01-31",
+            "challenges": [
+              {
+                "description": "programacion en django rest framework, especialista en python."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SASCO Security 360"
+        },
+        "roles": [
+          {
+            "name": "Especialista en electrónica",
+            "startDate": "2020-01-01",
+            "finishDate": "2021-01-31",
+            "challenges": [
+              {
+                "description": "encargado en revisar y reparar las tarjetas electronicas y programar o detectar daños en los microcontroladores de las tarjetas que le daban funcion a los motores para los portones electricos y especialista en la reparacion de tarjetas de los DVR o rescatar datos de los discos duros."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DC Urbina Solutions"
+        },
+        "roles": [
+          {
+            "name": "Social Media Manager",
+            "startDate": "2019-04-01",
+            "finishDate": "2019-08-31",
+            "challenges": [
+              {
+                "description": "manejo de todas las redes sociales de la empresa y monitoreo del crecimiento de las mismas"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cobertura Creativa"
+        },
+        "roles": [
+          {
+            "name": "Web Designer",
+            "startDate": "2019-01-01",
+            "finishDate": "2019-04-30",
+            "challenges": [
+              {
+                "description": "especialista en wordpress, wix y godaddy para la creacion de tiendas online."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Ethereum",
+          "description": "Programador activo en la Ethereum foundation, trabajando en la parte de traduccion del codigo y de las paginas",
+          "URL": "https://ethereum.org/es/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitHub Actions",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Facelad",
+          "description": "Proyecto en el que soy lider de desarrollo, para una app que gestiona dominios, hostings y creacion de paginas web, estamos creando una agencia para las agencias de marketing digital.",
+          "URL": "https://facelad.com"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS CloudFormation",
+                "type": "technology"
+              },
+              {
+                "name": "AWS CloudFront",
+                "type": "technology"
+              },
+              {
+                "name": "AWS Cloudwatch",
+                "type": "technology"
+              },
+              {
+                "name": "AWS EC2",
+                "type": "technology"
+              },
+              {
+                "name": "AWS ElastiCache",
+                "type": "technology"
+              },
+              {
+                "name": "AWS IAM",
+                "type": "technology"
+              },
+              {
+                "name": "AWS Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "AWS SNS",
+                "type": "technology"
+              },
+              {
+                "name": "Celery",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdManager",
+                "type": "technology"
+              },
+              {
+                "name": "Google Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Apps Script",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "Pytest",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "WebApi",
+                "type": "technology"
+              },
+              {
+                "name": "web hosting",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Tecnicatura, Tecnología/Técnico de ingeniería eléctrica, electrónica y de comunicaciones",
+        "startDate": "2015-01-01",
+        "institution": {
+          "name": "Universidad Simón Bolívar",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/23/a6d83090-6e32-4ea1-9c1e-99ca5499fbbe_linkedin-photo-37092.linkedin-photo-37092",
+            "alt": "24/05/23/a6d83090-6e32-4ea1-9c1e-99ca5499fbbe_linkedin-photo-37092.linkedin-photo-37092"
+          }
+        },
+        "finishDate": "2020-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/andresgmg",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/andresgmg",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "andres.gmg1997@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "AWS CloudFormation",
+          "type": "technology"
+        },
+        {
+          "name": "AWS CloudFront",
+          "type": "technology"
+        },
+        {
+          "name": "AWS Cloudwatch",
+          "type": "technology"
+        },
+        {
+          "name": "AWS EC2",
+          "type": "technology"
+        },
+        {
+          "name": "AWS ECS",
+          "type": "technology"
+        },
+        {
+          "name": "AWS ElastiCache",
+          "type": "technology"
+        },
+        {
+          "name": "AWS IAM",
+          "type": "technology"
+        },
+        {
+          "name": "AWS Lambda",
+          "type": "technology"
+        },
+        {
+          "name": "AWS SNS",
+          "type": "technology"
+        },
+        {
+          "name": "Bitbucket",
+          "type": "technology"
+        },
+        {
+          "name": "C",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "Cassandra",
+          "type": "technology"
+        },
+        {
+          "name": "Celery",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Fastapi",
+          "type": "technology"
+        },
+        {
+          "name": "Flask",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "GitHub Actions",
+          "type": "technology"
+        },
+        {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
+          "name": "Gitflow",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "Github Actions",
+          "type": "technology"
+        },
+        {
+          "name": "Jira",
+          "type": "technology"
+        },
+        {
+          "name": "MariaDB",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Postman",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "SQLAlchemy",
+          "type": "technology"
+        },
+        {
+          "name": "SQLServer",
+          "type": "technology"
+        },
+        {
+          "name": "SQLite",
+          "type": "technology"
+        },
+        {
+          "name": "SourceTree",
+          "type": "technology"
+        },
+        {
+          "name": "Trello",
+          "type": "technology"
+        },
+        {
+          "name": "Ubuntu",
+          "type": "technology"
+        },
+        {
+          "name": "Unix",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Analyst & BI",
+        "Data Engineer",
+        "Data Scientist",
+        "DevOps & Infrastructure & SRE",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Lead Product Manager",
+        "Product Analyst",
+        "Product Manager",
+        "Product Owner",
+        "Project Manager & Delivery Manager",
+        "QA & Testing Engineer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Django",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo perfecto es exigente, rodeado de profesionales que cuidan y les gusta su labor, en el que siempre haya alguien velando por la calidad de los procesos. Aquel en el que la empresa confíe en tus aptitudes dándote tareas de complejidad con confianza por parte de tu manager. El conocimiento debería fluir entre compañeros, ya que pienso que es la mejor manera de aprender. La formación debe ser un pilar primordial para mejorar cada día e ir motivados a trabajar. Me interesa tanto ser un gestor de personas como un contribuidor individual, mientras trabaje en un entorno transparente, donde no haya barreras entre el management y el resto del equipo.",
+    "goodPractices": "Intento aplicar TDD tanto como puedo. Me parece importante redactar código bien documentado, ya sea porque es descriptivo, como por haber explicado qué buscaba en relación con la funcionalidad que buscaba implementar. Aprecio trabajar con programación en parejas. Por supuesto, sigo leyendo y aprendiendo a través de libros y eventos centrados en buenas prácticas, todos hemos leído «Clean Code» (me encanta «Uncle Bob») y «Refactoring», pero hoy en día no puedes quedarte solo ahí.",
+    "projects": [
+      {
+        "name": "Ethereum"
+      },
+      {
+        "name": "Facelad"
+      }
+    ]
+  }
+}
